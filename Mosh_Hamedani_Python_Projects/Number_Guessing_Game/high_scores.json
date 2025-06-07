@@ -1,0 +1,14 @@
+{
+    "easy": {
+        "attempts": 1,
+        "date_time": "2025-06-08 00:32:09"
+    },
+    "medium": {
+        "attempts": 5,
+        "date_time": "2025-06-08 00:33:24"
+    },
+    "hard": {
+        "attempts": 9,
+        "date_time": "2025-06-08 00:36:22"
+    }
+}
