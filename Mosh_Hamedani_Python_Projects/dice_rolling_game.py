@@ -26,7 +26,7 @@ while True:
         except Exception as e:
             print(f"An error occurred: {e}")
     elif choice == "n" or choice == "no":
-        print(f"\nThanks for playing! You played {games_played} {'time' if games_played <= 2 else 'times'}.")
+        print(f"\nThanks for playing! You played {games_played} {'time' if games_played < 2 else 'times'}.")
         break
     else:
         print("Invalid choice!")
